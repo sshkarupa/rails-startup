@@ -17,7 +17,6 @@
 .byebug_history
 .vagrant
 *.log
-Gemfile.lock
 .rubocop.yml
 .rubocop_todo.yml
 config/database.yml
