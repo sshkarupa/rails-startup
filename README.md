@@ -7,7 +7,7 @@ Preparation of a new rails app for the development
 Prepare vagarant
 ```
 $ mkdir rails-startup && cd rails-startup
-$ wget https://git.io/vyG7L
+$ wget -O Vagrantfile https://git.io/vyG7L
 $ echo '2.4.0' >> .ruby-version
 ```
 
